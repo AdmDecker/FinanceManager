@@ -1,0 +1,16 @@
+Budget Manager 2014 is a simple piece of software designed to help you manage your money more efficiently.  You can create budgets, deposit to them, and manage the balances manually or through "plans."
+
+Install instructions:
+1. Download the launcher and place it somewhere you can find it easily (Like your desktop).  You will need to use the launcher to run Budget Manager 2014.
+2. Run the launcher.  You may need to right-click and click "Run As Administrator" if you want to install it in the default location.
+3. If you get an error about the Microsoft .NET framework, go to http://www.microsoft.com/net and click "Install .NET Framework Now."  Install the framework to continue.
+4. At this point the install window should appear.  If you ran the program in Administrator mode, simply click the "Update/Install" button.  Otherwise, change the install location with the Browse button before clicking "Update/Install."
+5. After the install completes, click "Launch" to run Budget Manager 2014.
+
+Use Instructions:
+1. Click New at the top to create a new account.  Accounts are used to store everything you do in BM2014. After creation, you will need to select your account using the dropdown.
+2. Create new budgets by clicking the Add button at the bottom left
+3. You can deposit to these budgets manually by entering an amount and then clicking the "Deposit" button when a budget is selected.  Make sure that the "To Budget" radio button is checked.
+4. Alternatively, you can create a budget plan.  To create a budget plan, click the "New" button under the "Budget Plan" drop down. Give it a nice name, and then add budgets to it by selecting a budget and an amount/percentage.  This amount/percentage will be automatically added to that budget every time you deposit to the plan.
+5. Withdraw money from your budgets by entering an amount and clicking the "Withdraw" button.
+That's all! I hope you enjoy using Budget Manager 2014.
